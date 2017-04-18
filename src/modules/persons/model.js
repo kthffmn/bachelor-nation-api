@@ -17,13 +17,13 @@ const classProps = {
       return qb.whereIn('id', value);
     },
     name: function (qb, value) {
-      return qb.whereIn('name', value);
+      return qb.whereIn('name', decodeURI(value));
     },
     occupation: function (qb, value) {
-      return qb.whereIn('occupation', value);
+      return qb.whereIn('occupation', decodeURI(value));
     },
     hometown: function (qb, value) {
-      return qb.whereIn('hometown', value);
+      return qb.whereIn('hometown', decodeURI(value));
     }
   },
   relations: [

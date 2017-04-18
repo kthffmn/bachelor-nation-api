@@ -17,7 +17,7 @@ const classProps = {
       return qb.whereIn('id', value);
     },
     status: function (qb, value) {
-      return qb.whereIn('status', value);
+      return qb.whereIn('status', decodeURI(value));
     },
     youngerThan: function (qb, value) {
       return qb.where('age', '<', value);
