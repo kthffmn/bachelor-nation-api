@@ -1,0 +1,5 @@
+---
+applications:
+  - name: bachelor-nation-api
+    memory: 256M
+    instances: 1
