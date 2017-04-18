@@ -1,4 +1,5 @@
 const BaseModel = require('../../classes/base_model');
+const utils = require('../../../utilities/looker-upper');
 
 const instanceProps = {
   tableName: 'persons',
@@ -17,13 +18,13 @@ const classProps = {
       return qb.whereIn('id', value);
     },
     name: function (qb, value) {
-      return qb.whereIn('name', decodeURI(value));
+      return utils.iLike(qb, value, 'name');
     },
     occupation: function (qb, value) {
-      return qb.whereIn('occupation', decodeURI(value));
+      return utils.iLike(qb, value, 'occupation');
     },
     hometown: function (qb, value) {
-      return qb.whereIn('hometown', decodeURI(value));
+      return utils.iLike(qb, value, 'hometown');
     }
   },
   relations: [

@@ -17,7 +17,6 @@ const instanceProps = {
   }
 };
 
-
 const classProps = {
   typeName: 'shows',
   filters: {

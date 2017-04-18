@@ -1,4 +1,5 @@
 const BaseModel = require('../../classes/base_model');
+const utils = require('../../../utilities/looker-upper');
 
 const instanceProps = {
   tableName: 'contestants',
@@ -17,7 +18,7 @@ const classProps = {
       return qb.whereIn('id', value);
     },
     status: function (qb, value) {
-      return qb.whereIn('status', decodeURI(value));
+      return utils.iLike(qb, value, 'status');
     },
     youngerThan: function (qb, value) {
       return qb.where('age', '<', value);
