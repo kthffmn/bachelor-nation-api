@@ -1,25 +1,17 @@
 const BaseModel = require('../../classes/base_model');
 
-// const instanceProps = {
-//   tableName: 'seasons',
-//   contestants: function () {
-//     return this.hasMany(require('../contestants/model'));
-//   },
-//   eligible: function () {
-//     return this.hasOne(require('../eligibles/model'));
-//   },
-//   show: function () {
-//     return this.belongsTo(require('../show/model'));
-//   }
-// };
-
 const instanceProps = {
   tableName: 'seasons',
   show: function () {
     return this.belongsTo(require('../shows/model'));
+  },
+  contestants: function () {
+    return this.hasMany(require('../contestants/model'));
+  },
+  eligible: function () {
+    return this.hasOne(require('../eligibles/model'));
   }
 };
-
 
 const classProps = {
   typeName: 'seasons',
@@ -32,6 +24,8 @@ const classProps = {
     }
   },
   relations: [
+    'contestants',
+    'eligible',
     'show'
   ]
 };

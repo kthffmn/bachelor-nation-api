@@ -56,7 +56,7 @@
           "hometown": "Los Angeles, California",
           "occupation": "Actress",
           "status": "Week 3",
-          "age": 23
+          "age": "23"
         },
         {
           "name": "Rhonda",
@@ -620,21 +620,21 @@
         {
           "name": "Jennifer Wilson",
           "age": "24",
-          "hometown": "Pembroke Pines, FL",
+          "hometown": "Pembroke Pines, Florida",
           "occupation": "Teacher",
           "status": "Winner"
         },
         {
           "name": "Sadie Murray",
           "age": "23",
-          "hometown": "Carlsbad, CA",
+          "hometown": "Carlsbad, California",
           "occupation": "Publicist",
           "status": "Week 7"
         },
         {
           "name": "Lisa Blank",
           "age": "25",
-          "hometown": "Portland, OR",
+          "hometown": "Portland, Oregon",
           "occupation": "Marketing manager",
           "status": "Week 6"
         },
@@ -648,119 +648,119 @@
         {
           "name": "Jeanette Pawula",
           "age": "23",
-          "hometown": "Bloomingdale, IL",
+          "hometown": "Bloomingdale, Illinois",
           "occupation": "Teacher",
           "status": "Week 4"
         },
         {
           "name": "Desiree Valentin",
           "age": "22",
-          "hometown": "Salt Lake City, UT",
+          "hometown": "Salt Lake City, Utah",
           "occupation": "Realtor",
           "status": "Week 4"
         },
         {
           "name": "Jami Matzke",
           "age": "27",
-          "hometown": "Galveston, TX",
+          "hometown": "Galveston, Texas",
           "occupation": "Event planner",
           "status": "Week 3"
         },
         {
           "name": "Gina Clark",
           "age": "28",
-          "hometown": "Chicago, IL",
+          "hometown": "Chicago, Illinois",
           "occupation": "Ultrasound technician",
           "status": "Week 3"
         },
         {
           "name": "Erica Rose",
           "age": "23",
-          "hometown": "Houston, TX",
+          "hometown": "Houston, Texas",
           "occupation": "Socialite",
           "status": "Week 3"
         },
         {
           "name": "Sarah Schnare",
           "age": "30",
-          "hometown": "Nelson, BC",
+          "hometown": "Nelson, British Columbia",
           "occupation": "Journalist",
           "status": "Week 2"
         },
         {
           "name": "Kim Jackson",
           "age": "27",
-          "hometown": "Newport Beach, CA",
+          "hometown": "Newport Beach, California",
           "occupation": "Interior designer",
           "status": "Week 2"
         },
         {
           "name": "Ellen DeMaio",
           "age": "30",
-          "hometown": "New Haven, CT",
+          "hometown": "New Haven, Connecticut",
           "occupation": "Realtor",
           "status": "Week 2"
         },
         {
           "name": "Tara Durr",
           "age": "24",
-          "hometown": "St. Augustine, FL",
+          "hometown": "St. Augustine, Florida",
           "occupation": "Realtor",
           "status": "Week 1"
         },
         {
           "name": "Rosella Fratto",
           "age": "27",
-          "hometown": "Chicago, IL",
+          "hometown": "Chicago, Illinois",
           "occupation": "Make-up artist",
           "status": "Week 1"
         },
         {
           "name": "Rita Ghazal",
           "age": "29",
-          "hometown": "Richmond, VA",
+          "hometown": "Richmond, Virginia",
           "occupation": "Policy advisor",
           "status": "Week 1"
         },
         {
           "name": "Renee Snell",
           "age": "30",
-          "hometown": "Baltimore, MD",
+          "hometown": "Baltimore, Maryland",
           "occupation": "Broadcast marketer",
           "status": "Week 1"
         },
         {
           "name": "Meri Barr",
           "age": "27",
-          "hometown": "Biloxi, MS",
+          "hometown": "Biloxi, Mississippi",
           "occupation": "Attorney",
           "status": "Week 1"
         },
         {
           "name": "Laura Morgan",
           "age": "29",
-          "hometown": "San Diego, CA",
+          "hometown": "San Diego, California",
           "occupation": "Dolphin trainer",
           "status": "Week 1"
         },
         {
           "name": "Jessica Horner",
           "age": "25",
-          "hometown": "Charlotte, NC",
+          "hometown": "Charlotte, North Carolina",
           "occupation": "Assistant buyer",
           "status": "Week 1"
         },
         {
           "name": "Heather Sneed",
           "age": "34",
-          "hometown": "Aliquippa, PA",
+          "hometown": "Aliquippa, Pennsylvania",
           "occupation": "Registered nurse",
           "status": "Week 1"
         },
         {
           "name": "Elyse Greenebaum",
           "age": "27",
-          "hometown": "New York, NY",
+          "hometown": "New York, New York",
           "occupation": "Physician",
           "status": "Week 1"
         },
@@ -774,35 +774,35 @@
         {
           "name": "Claudia Gismondi",
           "age": "22",
-          "hometown": "Boca Raton, FL",
+          "hometown": "Boca Raton, Florida",
           "occupation": "Restaurateur",
           "status": "Week 1"
         },
         {
           "name": "Carissa Ilburg",
           "age": "25",
-          "hometown": "Cattaraugus, NY",
+          "hometown": "Cattaraugus, New York",
           "occupation": "Attorney",
           "status": "Week 1"
         },
         {
           "name": "Brit Keeder",
           "age": "28",
-          "hometown": "Columbus, OH",
+          "hometown": "Columbus, Ohio",
           "occupation": "Beer chemist",
           "status": "Week 1"
         },
         {
           "name": "Andrea Shirley",
           "age": "28",
-          "hometown": "Cincinnati, OH",
+          "hometown": "Cincinnati, Ohio",
           "occupation": "Hotel concierge",
           "status": "Week 1"
         },
         {
           "name": "April Jacobs",
           "age": "23",
-          "hometown": "Chicago, IL",
+          "hometown": "Chicago, Illinois",
           "occupation": "Model",
           "status": "Week 1"
         }
@@ -820,175 +820,175 @@
         {
           "name": "Tessa Horst",
           "age": "26",
-          "hometown": "San Francisco, CA",
+          "hometown": "San Francisco, California",
           "occupation": "Social Worker",
           "status": "Winner"
         },
         {
           "name": "Bevin Nicole Powers",
           "age": "28",
-          "hometown": "Palo Alto, CA",
+          "hometown": "Palo Alto, California",
           "occupation": "Assistant",
           "status": "Week 8"
         },
         {
           "name": "Danielle Imwalle",
           "age": "25",
-          "hometown": "Bethel, CT",
+          "hometown": "Bethel, Connecticut",
           "occupation": "Graphic Designer",
           "status": "Week 7"
         },
         {
           "name": "Amber Alchalabi",
           "age": "23",
-          "hometown": "Sugar Land, TX",
+          "hometown": "Sugar Land, Texas",
           "occupation": "Teacher",
           "status": "Week 6"
         },
         {
           "name": "Stephanie Wilhite",
           "age": "23",
-          "hometown": "Overland Park, KS",
+          "hometown": "Overland Park, Kansas",
           "occupation": "Project Manager",
           "status": "Week 5"
         },
         {
           "name": "Tina Wu",
           "age": "26",
-          "hometown": "Los Angeles, CA",
+          "hometown": "Los Angeles, California",
           "occupation": "Medical student",
           "status": "Week 5"
         },
         {
           "name": "Kate Brockhouse",
           "age": "24",
-          "hometown": "Charleston, SC",
+          "hometown": "Charleston, South Carolina",
           "occupation": "Boutique owner",
           "status": "Week 4"
         },
         {
           "name": "Nicole Clary",
           "age": "26",
-          "hometown": "Charleston, SC",
+          "hometown": "Charleston, South Carolina",
           "occupation": "Sales Manager",
           "status": "Week 4"
         },
         {
           "name": "Stephanie Tipper",
           "age": "27",
-          "hometown": "Folly Beach, SC",
+          "hometown": "Folly Beach, South Carolina",
           "occupation": "Organ donor coordinator",
           "status": "Week 4"
         },
         {
           "name": "Amanda Hackney",
           "age": "26",
-          "hometown": "Dallas, TX",
+          "hometown": "Dallas, Texas",
           "occupation": "Financial analyst",
           "status": "Week 3"
         },
         {
           "name": "Erin Parker",
           "age": "24",
-          "hometown": "Logansport, LA",
+          "hometown": "Logansport, Louisiana",
           "occupation": "Financial analyst",
           "status": "Week 3"
         },
         {
           "name": "Peyton Wright",
           "age": "24",
-          "hometown": "Dallas, TX",
+          "hometown": "Dallas, Texas",
           "occupation": "Sorority recruiter",
           "status": "Week 3"
         },
         {
           "name": "Alexis Young",
           "age": "26",
-          "hometown": "Southlake, TX",
+          "hometown": "Southlake, Texas",
           "occupation": "Attorney",
           "status": "Week 2"
         },
         {
           "name": "Susan Anderson",
           "age": "23",
-          "hometown": "The Woodlands, TX",
+          "hometown": "The Woodlands, Texas",
           "occupation": "Boutique manager",
           "status": "Week 2"
         },
         {
           "name": "Tiffany Warren",
           "age": "28",
-          "hometown": "Boston, MA",
+          "hometown": "Boston, Massachusetts",
           "occupation": "Medical equipment sales rep",
           "status": "Week 2"
         },
         {
           "name": "Blakeney Rowe",
           "age": "29",
-          "hometown": "Birmingham, AL",
+          "hometown": "Birmingham, Alabama",
           "occupation": "Radio sales",
           "status": "Week 1"
         },
         {
           "name": "Candace DeCost",
           "age": "23",
-          "hometown": "Hilton Head Island, SC",
+          "hometown": "Hilton Head Island, South Carolina",
           "occupation": "Waitress",
           "status": "Week 1"
         },
         {
           "name": "Catherine Warren",
           "age": "23",
-          "hometown": "Lake Forest, IL",
+          "hometown": "Lake Forest, Illinois",
           "occupation": "Former Miss Illinois",
           "status": "Week 1"
         },
         {
           "name": "Danielle Vallis",
           "age": "26",
-          "hometown": "Bronx, NY",
+          "hometown": "Bronx, New York",
           "occupation": "Attorney",
           "status": "Week 1"
         },
         {
           "name": "Jackie Topelli",
           "age": "23",
-          "hometown": "Minneapolis, MN",
+          "hometown": "Minneapolis, Minnesota",
           "occupation": "Executive coordinator",
           "status": "Week 1"
         },
         {
           "name": "Jeanette Alvarez",
           "age": "27",
-          "hometown": "Tampa, FL",
+          "hometown": "Tampa, Florida",
           "occupation": "Health care manager",
           "status": "Week 1"
         },
         {
           "name": "Jessica Devallo",
           "age": "32",
-          "hometown": "New York, NY",
+          "hometown": "New York, New York",
           "occupation": "Hedge fund analyst",
           "status": "Week 1"
         },
         {
           "name": "Linda Malek",
           "age": "33",
-          "hometown": "Cuyahoga Falls, OH",
+          "hometown": "Cuyahoga Falls, Ohio",
           "occupation": "Attorney",
           "status": "Week 1"
         },
         {
           "name": "Lindsay Smith",
           "age": "22",
-          "hometown": "Lawrence, KS",
+          "hometown": "Lawrence, Kansas",
           "occupation": "Student",
           "status": "Week 1"
         },
         {
           "name": "Tiffany Forester",
           "age": "27",
-          "hometown": "St. Louis Park, MN",
+          "hometown": "St. Louis Park, Minnesota",
           "occupation": "Real estate sales/development",
           "status": "Week 1"
         }
@@ -1006,14 +1006,14 @@
         {
           "name": "Deanna Pappas",
           "age": "25",
-          "hometown": "Newnan, GA",
+          "hometown": "Newnan, Georgia",
           "occupation": "Realtor",
           "status": "Week 8"
         },
         {
           "name": "Jenni Croft",
           "age": "27",
-          "hometown": "Wichita, KS",
+          "hometown": "Wichita, Kansas",
           "occupation": "Phoenix Suns Cheerleader",
           "status": "Week 8"
         },
@@ -1027,154 +1027,154 @@
         {
           "name": "Sheena Stewart",
           "age": "23",
-          "hometown": "Walnut Creek, CA",
+          "hometown": "Walnut Creek, California",
           "occupation": "Internet marketing executive",
           "status": "Week 6"
         },
         {
           "name": "Hillary Reisinger",
           "age": "27",
-          "hometown": "Philadelphia, PA",
+          "hometown": "Philadelphia, Pennsylvania",
           "occupation": "Registered nurse",
           "status": "Week 5"
         },
         {
           "name": "Kristy Katzmann",
           "age": "29",
-          "hometown": "Chicago, IL",
+          "hometown": "Chicago, Illinois",
           "occupation": "Acupuncturist",
           "status": "Week 5"
         },
         {
           "name": "Estefania \"Stephy\" Kootz",
           "age": "26",
-          "hometown": "Atlanta, GA",
+          "hometown": "Atlanta, Georgia",
           "occupation": "Executive assistant",
           "status": "Week 4"
         },
         {
           "name": "Jade Beazley",
           "age": "24",
-          "hometown": "Nashville, TN",
+          "hometown": "Nashville, Tennessee",
           "occupation": "Boutique sales worker",
           "status": "Week 4"
         },
         {
           "name": "McCarten Delaney",
           "age": "26",
-          "hometown": "San Diego, CA",
+          "hometown": "San Diego, California",
           "occupation": "Account manager",
           "status": "Week 4"
         },
         {
           "name": "Lindsey Hawkins",
           "age": "25",
-          "hometown": "Livonia, MI",
+          "hometown": "Livonia, Michigan",
           "occupation": "Model",
           "status": "Week 3"
         },
         {
           "name": "Sarah Newlon",
           "age": "23",
-          "hometown": "O'Fallon, IL",
+          "hometown": "O'Fallon, Illinois",
           "occupation": "Bar manager",
           "status": "Week 3"
         },
         {
           "name": "Solisa Shoop",
           "age": "25",
-          "hometown": "Georgetown, TX",
+          "hometown": "Georgetown, Texas",
           "occupation": "Esthetician",
           "status": "Week 3"
         },
         {
           "name": "Michele Leavy",
           "age": "30",
-          "hometown": "South Brunswick, NJ",
+          "hometown": "South Brunswick, New Jersey",
           "occupation": "Realtor",
           "status": "Week 2"
         },
         {
           "name": "Mallory Simons",
           "age": "24",
-          "hometown": "Honolulu, HI",
+          "hometown": "Honolulu, Hawaii",
           "occupation": "Nanny",
           "status": "Week 2"
         },
         {
           "name": "Erin Gardner",
           "age": "25",
-          "hometown": "Tampa, FL",
+          "hometown": "Tampa, Florida",
           "occupation": "Publishing sales executive",
           "status": "Week 2"
         },
         {
           "name": "Jessica Kiss",
           "age": "27",
-          "hometown": "Lady Lake, FL",
+          "hometown": "Lady Lake, Florida",
           "occupation": "News anchor",
           "status": "Week 1"
         },
         {
           "name": "Juli Gilliam",
           "age": "24",
-          "hometown": "Chicago, IL",
+          "hometown": "Chicago, Illinois",
           "occupation": "Law student",
           "status": "Week 1"
         },
         {
           "name": "Kim Orville",
           "age": "31",
-          "hometown": "Woodbridge, CT",
+          "hometown": "Woodbridge, Connecticut",
           "occupation": "Realtor",
           "status": "Week 1"
         },
         {
           "name": "Lori Langley",
           "age": "33",
-          "hometown": "Annapolis, MD",
+          "hometown": "Annapolis, Maryland",
           "occupation": "Biology teacher",
           "status": "Week 1"
         },
         {
           "name": "Melissa Buschel",
           "age": "28",
-          "hometown": "Westchester, NY",
+          "hometown": "Westchester, New York",
           "occupation": "Event planner",
           "status": "Week 1"
         },
         {
           "name": "Morgan Becker",
           "age": "24",
-          "hometown": "Tempe, AZ",
+          "hometown": "Tempe, Arizona",
           "occupation": "Graduate student",
           "status": "Week 1"
         },
         {
           "name": "Natalie Penner",
           "age": "25",
-          "hometown": "Duncanville, TX",
+          "hometown": "Duncanville, Texas",
           "occupation": "Law student",
           "status": "Week 1"
         },
         {
           "name": "Regina Doringa",
           "age": "31",
-          "hometown": "San Diego, CA",
+          "hometown": "San Diego, California",
           "occupation": "Account representative",
           "status": "Week 1"
         },
         {
           "name": "Tauni Nessler ",
           "age": "31",
-          "hometown": "St. Louis Park, MN",
+          "hometown": "St. Louis Park, Minnesota",
           "occupation": "Emergency room nurse",
           "status": "Week 1"
         },
         {
           "name": "Susan Stein",
           "age": "35",
-          "hometown": "St. Charles, IL",
+          "hometown": "St. Charles, Illinois",
           "occupation": "Project analyst",
           "status": "Week 1"
         }
@@ -1192,119 +1192,119 @@
         {
           "name": "Shayne Lamas",
           "age": "22",
-          "hometown": "Malibu, CA",
+          "hometown": "Malibu, California",
           "occupation": "Actress",
           "status": "Winner"
         },
         {
           "name": "Chelsea Wanstrath",
           "age": "25",
-          "hometown": "Durango, CO",
+          "hometown": "Durango, Colorado",
           "occupation": "Pharmaceutical sales rep.",
           "status": "Week 8"
         },
         {
           "name": "Amanda Rantuccio",
           "age": "27",
-          "hometown": "Niceville, FL",
+          "hometown": "Niceville, Florida",
           "occupation": "Account Executive",
           "status": "Week 7"
         },
         {
           "name": "Noelle Drake",
           "age": "26",
-          "hometown": "Loveland, CO",
+          "hometown": "Loveland, Colorado",
           "occupation": "Photographer",
           "status": "Week 6"
         },
         {
           "name": "Marshana Ritchie",
           "age": "27",
-          "hometown": "Brooklyn, NY",
+          "hometown": "Brooklyn, New York",
           "occupation": "Fashion designer",
           "status": "Week 5"
         },
         {
           "name": "Robin Canfield",
           "age": "22",
-          "hometown": "Holland, MI",
+          "hometown": "Holland, Michigan",
           "occupation": "Advertising coordinator",
           "status": "Week 5"
         },
         {
           "name": "Ashlee Williss",
           "age": "22",
-          "hometown": "Jacksonville Beach, FL",
+          "hometown": "Jacksonville Beach, Florida",
           "occupation": "Singer-songwriter",
           "status": "Week 4"
         },
         {
           "name": "Kelly",
           "age": "25",
-          "hometown": "Hollywood, CA",
+          "hometown": "Hollywood, California",
           "occupation": "Medical sales rep.",
           "status": "Week 4"
         },
         {
           "name": "Holly Durst",
           "age": "24",
-          "hometown": "Suffield, OH",
+          "hometown": "Suffield, Ohio",
           "occupation": "Children's book author",
           "status": "Week 4"
         },
         {
           "name": "Erin S.",
           "age": "33",
-          "hometown": "Venice, CA",
+          "hometown": "Venice, California",
           "occupation": "Hot-dog vendor",
           "status": "Week 3"
         },
         {
           "name": "Amy",
           "age": "22",
-          "hometown": "Stockton, CA",
+          "hometown": "Stockton, California",
           "occupation": "Nanny",
           "status": "Week 3"
         },
         {
           "name": "Kristine Heffelfinger",
           "age": "33",
-          "hometown": "Dillsburg, PA",
+          "hometown": "Dillsburg, Pennsylvania",
           "occupation": "Personal trainer",
           "status": "Week 3"
         },
         {
           "name": "Michelle",
           "age": "28",
-          "hometown": "Syracuse, NY",
+          "hometown": "Syracuse, New York",
           "occupation": "Administrative assistant",
           "status": "Week 2"
         },
         {
           "name": "Carri Perrier",
           "age": "25",
-          "hometown": "Oklahoma City, OK",
+          "hometown": "Oklahoma City, Oklahoma",
           "occupation": "Church marketing rep.",
           "status": "Week 2"
         },
         {
           "name": "Erin Harper",
           "age": "25",
-          "hometown": "Seattle, WA",
+          "hometown": "Seattle, Washington",
           "occupation": "Event planner",
           "status": "Week 2"
         },
         {
           "name": "Alyssa",
           "age": "24",
-          "hometown": "Boise, ID",
+          "hometown": "Boise, Idaho",
           "occupation": "Biology student",
           "status": "Week 1"
         },
         {
           "name": "Amanda Petterman",
           "age": "26",
-          "hometown": "LaFollette, TN",
+          "hometown": "LaFollette, Tennessee",
           "occupation": "Law student",
           "status": "Week 1"
         },
@@ -1318,49 +1318,49 @@
         {
           "name": "Devon",
           "age": "24",
-          "hometown": "Austin, TX",
+          "hometown": "Austin, Texas",
           "occupation": "Makeup artist",
           "status": "Week 1"
         },
         {
           "name": "Lesley Geyer",
           "age": "23",
-          "hometown": "Tampa, FL",
+          "hometown": "Tampa, Florida",
           "occupation": "Youth minister",
           "status": "Week 1"
         },
         {
           "name": "Michele",
           "age": "33",
-          "hometown": "Laguna Niguel, CA",
+          "hometown": "Laguna Niguel, California",
           "occupation": "Interior designer",
           "status": "Week 1"
         },
         {
           "name": "Rebecca",
           "age": "30",
-          "hometown": "Alamo, CA",
+          "hometown": "Alamo, California",
           "occupation": "Attorney",
           "status": "Week 1"
         },
         {
           "name": "Stacey Elza",
           "age": "26",
-          "hometown": "Chicago, IL",
+          "hometown": "Chicago, Illinois",
           "occupation": "Graduate student",
           "status": "Week 1"
         },
         {
           "name": "Tamara",
           "age": "23",
-          "hometown": "Beverly Hills, CA",
+          "hometown": "Beverly Hills, California",
           "occupation": "Cocktail waitress",
           "status": "Week 1"
         },
         {
           "name": "Tiffany",
           "age": "33",
-          "hometown": "San Francisco, CA",
+          "hometown": "San Francisco, California",
           "occupation": "Real estate marketing rep.",
           "status": "Week 1"
         }
@@ -5002,7 +5002,7 @@
           "status": "Week 5 - quit"
         },
         {
-          "name": "Corey Stansell (NY)",
+          "name": "Corey Stansell",
           "age": "30",
           "hometown": "New York, New York",
           "occupation": "Investment Banker",
