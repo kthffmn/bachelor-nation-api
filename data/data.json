@@ -384,7 +384,7 @@
     },
     "4": {
       "eligible": {
-        "name": "Robert \"Bob\" Guiney",
+        "name": "Robert 'Bob' Guiney",
         "age": "32",
         "hometown": "Riverview, Michigan",
         "occupation": "creator of a mortgage company",
@@ -590,7 +590,7 @@
     },
     "7": {
       "eligible": {
-        "name": "Charles \"Charlie\" O'Connell",
+        "name": "Charles 'Charlie' O'Connell",
         "age": "31",
         "hometown": "New York City, New York",
         "occupation": "actor",
@@ -996,7 +996,7 @@
     },
     "11": {
       "eligible": {
-        "name": "Stephen Bradley \"Brad\" Womack",
+        "name": "Stephen Bradley 'Brad' Womack",
         "age": "35",
         "hometown": "Austin, Texas",
         "occupation": "winemaker",
@@ -1046,7 +1046,7 @@
           "status": "Week 5"
         },
         {
-          "name": "Estefania \"Stephy\" Kootz",
+          "name": "Estefania 'Stephy' Kootz",
           "age": "26",
           "hometown": "Atlanta, Georgia",
           "occupation": "Executive assistant",
@@ -1432,7 +1432,7 @@
           "status": "Week 4"
         },
         {
-          "name": "Nicole \"Nikki\" Kaapke",
+          "name": "Nicole 'Nikki' Kaapke",
           "age": "29",
           "hometown": "Blue Island, Illinois",
           "occupation": "Administrative Assistant",
@@ -1740,7 +1740,7 @@
     },
     "15": {
       "eligible": {
-        "name": "Stephen Bradley \"Brad\" Womack",
+        "name": "Stephen Bradley 'Brad' Womack",
         "age": "38",
         "hometown": "Austin, Texas",
         "occupation": "winemaker",
@@ -1902,7 +1902,7 @@
           "status": "Week 1"
         },
         {
-          "name": "Jessica \"J\"",
+          "name": "Jessica 'J'",
           "age": "26",
           "hometown": "Seattle, Washington",
           "occupation": "Operations Manager",
@@ -2648,14 +2648,14 @@
         {
           "name": "Jillian Anderson",
           "age": "25",
-          "hometown": "Howland, Ohio[f]",
+          "hometown": "Howland, Ohio",
           "occupation": "News Producer",
           "status": "Week 4"
         },
         {
           "name": "Amber James",
           "age": "29",
-          "hometown": "Kankakee, Illinois[g]",
+          "hometown": "Kankakee, Illinois",
           "occupation": "Bartender",
           "status": "Week 3"
         },
@@ -2797,7 +2797,7 @@
           "status": "Week 7"
         },
         {
-          "name": "Joelle \"JoJo\" Fletcher",
+          "name": "Joelle 'JoJo' Fletcher",
           "age": "24",
           "hometown": "Dallas, Texas",
           "occupation": "Real Estate Developer",
@@ -2888,14 +2888,14 @@
           "status": "Week 3 - quit"
         },
         {
-          "name": "Amanda \"Mandi\" Kremer",
+          "name": "Amanda 'Mandi' Kremer",
           "age": "28",
           "hometown": "Portland, Oregon",
           "occupation": "Dentist",
           "status": "Week 2"
         },
         {
-          "name": "Jacqueline \"Jackie\" Dion",
+          "name": "Jacqueline 'Jackie' Dion",
           "age": "23",
           "hometown": "Newport Beach, California",
           "occupation": "Gerontologist",
@@ -2909,7 +2909,7 @@
           "status": "Week 2"
         },
         {
-          "name": "Lauren \"LB\" Barr",
+          "name": "Lauren 'LB' Barr",
           "age": "23",
           "hometown": "Stillwater, Oklahoma",
           "occupation": "Fashion Buyer",
@@ -2923,7 +2923,7 @@
           "status": "Week 1"
         },
         {
-          "name": "Isabel \"Izzy\" Goodkind",
+          "name": "Isabel 'Izzy' Goodkind",
           "age": "24",
           "hometown": "Branford, Connecticut",
           "occupation": "Graphic Designer",
@@ -3123,7 +3123,7 @@
           "status": "Week 2"
         },
         {
-          "name": "Elizabeth \"Liz\" Sandoz",
+          "name": "Elizabeth 'Liz' Sandoz",
           "age": "29",
           "hometown": "Scottsbluff, Nebraska",
           "occupation": "Doula",
@@ -3184,6 +3184,430 @@
           "hometown": "Los Angeles, California",
           "occupation": "Food Truck Owner",
           "status": "Week 1"
+        }
+      ]
+    },
+    "22": {
+      "eligible": {
+        "name": "Arie",
+        "age": "26",
+        "hometown": "Scottsdale, Arizona",
+        "occupation": "real estate agent, former race car driver",
+        "status": "married"
+      },
+      "contestants": [
+        {
+          "name": "Rebecca 'Becca' Kufrin",
+          "age": "27",
+          "hometown": "Prior Lake, Minnesota",
+          "occupation": "Publicist",
+          "status": "Winner but then broken up with",
+          "place": "1"
+        },
+        {
+          "name": "Lauren Burnham",
+          "age": "25",
+          "hometown": "Virginia Beach, Virginia",
+          "occupation": "Technology Salesperson",
+          "status": "Runner-up but later married Arie",
+          "place": "2"
+        },
+        {
+          "name": "Kendall Long",
+          "age": "26",
+          "hometown": "Santa Clarita, California",
+          "occupation": "Creative Director",
+          "status": "Week 9",
+          "place": "3"
+        },
+        {
+          "name": "Tia Booth",
+          "age": "26",
+          "hometown": "Weiner, Arkansas",
+          "occupation": "Physical Therapist",
+          "status": "Week 8",
+          "place": "4"
+        },
+        {
+          "name": "Rebekah 'Bekah' Martinez",
+          "age": "22",
+          "hometown": "Fresno, California",
+          "occupation": "Nanny",
+          "status": "Week 7",
+          "place": "5"
+        },
+        {
+          "name": "Seinne Fleming",
+          "age": "27",
+          "hometown": "Long Beach, California",
+          "occupation": "Commercial Real Estate agent",
+          "status": "6"
+        },
+        {
+          "name": "Jacqueline Trumbull",
+          "age": "26",
+          "hometown": "Morgantown, West Virginia",
+          "occupation": "Research Coordinator",
+          "status": "7 (quit)"
+        },
+        {
+          "name": "Chelsea Roy",
+          "age": "29",
+          "hometown": "South Portland, Maine",
+          "occupation": "Real Estate Executive Assistant",
+          "status": "Week 6",
+          "place": "8–9"
+        },
+        {
+          "name": "Jenna Cooper",
+          "age": "28",
+          "hometown": "Raleigh, North Carolina",
+          "occupation": "Social Media Manager"
+        },
+        {
+          "name": "Krystal Nielson",
+          "age": "30",
+          "hometown": "Missoula, Montana",
+          "occupation": "Fitness Coach",
+          "status": "10"
+        },
+        {
+          "name": "Ashley Luebke",
+          "age": "25",
+          "hometown": "West Palm Beach, Florida",
+          "occupation": "Real Estate agent",
+          "status": "Week 5",
+          "place": "11–13"
+        },
+        {
+          "name": "Maquel Cooper",
+          "age": "23",
+          "hometown": "American Fork, Utah",
+          "occupation": "Photographer"
+        },
+        {
+          "name": "Marikh Mathias",
+          "age": "27",
+          "hometown": "Salt Lake City, Utah",
+          "occupation": "Restaurant Owner"
+        },
+        {
+          "name": "Brittany Taylor",
+          "age": "30",
+          "hometown": "Belton, South Carolina",
+          "occupation": "Tech Recruiter",
+          "status": "Week 4",
+          "place": "14–15"
+        },
+        {
+          "name": "Caroline Lunny",
+          "age": "26",
+          "hometown": "Holliston, Massachusetts",
+          "occupation": "Realtor"
+        },
+        {
+          "name": "Bibiana Julian",
+          "age": "30",
+          "hometown": "Miami, Florida",
+          "occupation": "Executive Assistant",
+          "status": "Week 3",
+          "place": "16"
+        },
+        {
+          "name": "Annaliese Puccini",
+          "age": "32",
+          "hometown": "San Mateo, California",
+          "occupation": "Event Designer",
+          "status": "17"
+        },
+        {
+          "name": "Lauren Schleyer",
+          "age": "31",
+          "hometown": "Dallas, Texas",
+          "occupation": "Social Media Manager",
+          "status": "18"
+        },
+        {
+          "name": "Jennifer 'Jenny' Delaney",
+          "age": "25",
+          "hometown": "Northbrook, Illinois",
+          "occupation": "Graphic Designer",
+          "status": "Week 2",
+          "place": "19–21"
+        },
+        {
+          "name": "Lauren Griffin",
+          "age": "26",
+          "hometown": "Indianapolis, Indiana",
+          "occupation": "Executive Recruiter"
+        },
+        {
+          "name": "Valerie Biles",
+          "age": "26",
+          "hometown": "Nashville, Tennessee",
+          "occupation": "Server"
+        },
+        {
+          "name": "Alison 'Ali' Harrington",
+          "age": "27",
+          "hometown": "Lawton, Oklahoma",
+          "occupation": "Personal Stylist",
+          "status": "Week 1",
+          "place": "22–29"
+        },
+        {
+          "name": "Amber Wilkerson",
+          "age": "29",
+          "hometown": "Denver, Colorado",
+          "occupation": "Business Owner"
+        },
+        {
+          "name": "Brianna 'Bri' Amaranthus",
+          "age": "25",
+          "hometown": "Grants Pass, Oregon",
+          "occupation": "Sports Reporter"
+        },
+        {
+          "name": "Brittane Johnson",
+          "age": "27",
+          "hometown": "San Diego, California",
+          "occupation": "Marketing Manager"
+        },
+        {
+          "name": "Jessica Carroll",
+          "age": "26",
+          "hometown": "Calgary, Alberta, Canada",
+          "occupation": "Television Host"
+        },
+        {
+          "name": "Lauren Jarreau",
+          "age": "33",
+          "hometown": "New Roads, Louisiana",
+          "occupation": "Recent Master's Graduate"
+        },
+        {
+          "name": "D'Nysha 'Nysha' Norris",
+          "age": "30",
+          "hometown": "Anderson, South Carolina",
+          "occupation": "Orthopedic Nurse"
+        },
+        {
+          "name": "Olivia Goethals",
+          "age": "23",
+          "hometown": "Geneseo, Illinois",
+          "occupation": "Marketing Associate"
+        }
+      ]
+    },
+    "23": {
+      "eligible": {
+        "name": "Colton Underwood",
+        "age": "26",
+        "hometown": "Washington, Illinois",
+        "occupation": "Former Pro Football Player",
+        "status": "engaged"
+      },
+      "contestants": [
+        {
+          "name": "Rebecca 'Becca' Kufrin",
+          "age": "27",
+          "hometown": "Prior Lake, Minnesota",
+          "occupation": "Publicist",
+          "status": "Winner",
+          "place": "1"
+        },
+        {
+          "name": "Lauren Burnham",
+          "age": "25",
+          "hometown": "Virginia Beach, Virginia",
+          "occupation": "Technology Salesperson",
+          "status": "Runner-up",
+          "place": "2"
+        },
+        {
+          "name": "Kendall Long",
+          "age": "26",
+          "hometown": "Santa Clarita, California",
+          "occupation": "Creative Director",
+          "status": "Week 9",
+          "place": "3"
+        },
+        {
+          "name": "Tia Booth",
+          "age": "26",
+          "hometown": "Weiner, Arkansas",
+          "occupation": "Physical Therapist",
+          "status": "Week 8",
+          "place": "4"
+        },
+        {
+          "name": "Rebekah 'Bekah' Martinez",
+          "age": "22",
+          "hometown": "Fresno, California",
+          "occupation": "Nanny",
+          "status": "Week 7",
+          "place": "5"
+        },
+        {
+          "name": "Seinne Fleming",
+          "age": "27",
+          "hometown": "Long Beach, California",
+          "occupation": "Commercial Real Estate agent",
+          "status": "6"
+        },
+        {
+          "name": "Jacqueline Trumbull",
+          "age": "26",
+          "hometown": "Morgantown, West Virginia",
+          "occupation": "Research Coordinator",
+          "status": "7 (quit)"
+        },
+        {
+          "name": "Chelsea Roy",
+          "age": "29",
+          "hometown": "South Portland, Maine",
+          "occupation": "Real Estate Executive Assistant",
+          "status": "Week 6",
+          "place": "8–9"
+        },
+        {
+          "name": "Jenna Cooper",
+          "age": "28",
+          "hometown": "Raleigh, North Carolina",
+          "occupation": "Social Media Manager"
+        },
+        {
+          "name": "Krystal Nielson",
+          "age": "30",
+          "hometown": "Missoula, Montana",
+          "occupation": "Fitness Coach",
+          "status": "10"
+        },
+        {
+          "name": "Ashley Luebke",
+          "age": "25",
+          "hometown": "West Palm Beach, Florida",
+          "occupation": "Real Estate agent",
+          "status": "Week 5",
+          "place": "11–13"
+        },
+        {
+          "name": "Maquel Cooper",
+          "age": "23",
+          "hometown": "American Fork, Utah",
+          "occupation": "Photographer"
+        },
+        {
+          "name": "Marikh Mathias",
+          "age": "27",
+          "hometown": "Salt Lake City, Utah",
+          "occupation": "Restaurant Owner"
+        },
+        {
+          "name": "Brittany Taylor",
+          "age": "30",
+          "hometown": "Belton, South Carolina",
+          "occupation": "Tech Recruiter",
+          "status": "Week 4",
+          "place": "14–15"
+        },
+        {
+          "name": "Caroline Lunny",
+          "age": "26",
+          "hometown": "Holliston, Massachusetts",
+          "occupation": "Realtor"
+        },
+        {
+          "name": "Bibiana Julian",
+          "age": "30",
+          "hometown": "Miami, Florida",
+          "occupation": "Executive Assistant",
+          "status": "Week 3",
+          "place": "16"
+        },
+        {
+          "name": "Annaliese Puccini",
+          "age": "32",
+          "hometown": "San Mateo, California",
+          "occupation": "Event Designer",
+          "status": "17"
+        },
+        {
+          "name": "Lauren Schleyer",
+          "age": "31",
+          "hometown": "Dallas, Texas",
+          "occupation": "Social Media Manager",
+          "status": "18"
+        },
+        {
+          "name": "Jennifer 'Jenny' Delaney",
+          "age": "25",
+          "hometown": "Northbrook, Illinois",
+          "occupation": "Graphic Designer",
+          "status": "Week 2",
+          "place": "19–21"
+        },
+        {
+          "name": "Lauren Griffin",
+          "age": "26",
+          "hometown": "Indianapolis, Indiana",
+          "occupation": "Executive Recruiter"
+        },
+        {
+          "name": "Valerie Biles",
+          "age": "26",
+          "hometown": "Nashville, Tennessee",
+          "occupation": "Server"
+        },
+        {
+          "name": "Alison 'Ali' Harrington",
+          "age": "27",
+          "hometown": "Lawton, Oklahoma",
+          "occupation": "Personal Stylist",
+          "status": "Week 1",
+          "place": "22–29"
+        },
+        {
+          "name": "Amber Wilkerson",
+          "age": "29",
+          "hometown": "Denver, Colorado",
+          "occupation": "Business Owner"
+        },
+        {
+          "name": "Brianna 'Bri' Amaranthus",
+          "age": "25",
+          "hometown": "Grants Pass, Oregon",
+          "occupation": "Sports Reporter"
+        },
+        {
+          "name": "Brittane Johnson",
+          "age": "27",
+          "hometown": "San Diego, California",
+          "occupation": "Marketing Manager"
+        },
+        {
+          "name": "Jessica Carroll",
+          "age": "26",
+          "hometown": "Calgary, Alberta, Canada",
+          "occupation": "Television Host"
+        },
+        {
+          "name": "Lauren Jarreau",
+          "age": "33",
+          "hometown": "New Roads, Louisiana",
+          "occupation": "Recent Master's Graduate"
+        },
+        {
+          "name": "D'Nysha 'Nysha' Norris",
+          "age": "30",
+          "hometown": "Anderson, South Carolina",
+          "occupation": "Orthopedic Nurse"
+        },
+        {
+          "name": "Olivia Goethals",
+          "age": "23",
+          "hometown": "Geneseo, Illinois",
+          "occupation": "Marketing Associate"
         }
       ]
     }
@@ -3563,7 +3987,7 @@
     },
     "3": {
       "eligible": {
-        "name": "Jennifer \"Jen\" Schefft",
+        "name": "Jennifer 'Jen' Schefft",
         "age": "29",
         "hometown": "Mentor, Ohio",
         "occupation": "publicist",
@@ -3630,7 +4054,7 @@
           "status": "Week 4"
         },
         {
-          "name": "Frederick \"Fred\" Greif",
+          "name": "Frederick 'Fred' Greif",
           "age": "30",
           "hometown": "Skokie, Illinois",
           "occupation": "Lawyer",
@@ -3665,7 +4089,7 @@
           "status": "Week 3"
         },
         {
-          "name": "Christopher \"Chris\" Bradshaw",
+          "name": "Christopher 'Chris' Bradshaw",
           "age": "29",
           "hometown": "Fort Worth, Texas",
           "occupation": "Medical sales rep.",
@@ -3707,7 +4131,7 @@
           "status": "Week 1"
         },
         {
-          "name": "Gregory \"Greg\" Matthew",
+          "name": "Gregory 'Greg' Matthew",
           "age": "28",
           "hometown": "Rockport, Massachusetts",
           "occupation": "Personal trainer",
@@ -3721,7 +4145,7 @@
           "status": "Week 1"
         },
         {
-          "name": "Jonathan \"Jon\" Konkel",
+          "name": "Jonathan 'Jon' Konkel",
           "age": "35",
           "hometown": "Williston, North Dakota",
           "occupation": "Resort manager",
@@ -4223,7 +4647,7 @@
           "status": "Week 6"
         },
         {
-          "name": "Ryan \"Mickey\" McLean",
+          "name": "Ryan 'Mickey' McLean",
           "age": "31",
           "hometown": "Rochester, New York",
           "occupation": "Chef",
@@ -5103,7 +5527,7 @@
     },
     "12": {
       "eligible": {
-        "name": "Joelle \"JoJo\" Fletcher",
+        "name": "Joelle 'JoJo' Fletcher",
         "age": "25",
         "hometown": "Dallas, Texas",
         "occupation": "real estate developer",
@@ -5181,7 +5605,7 @@
           "status": "Week 5"
         },
         {
-          "name": "Vincent \"Vinny\" Ventiera",
+          "name": "Vincent 'Vinny' Ventiera",
           "age": "28",
           "hometown": "Kings Park, New York",
           "occupation": "Barber",
@@ -5291,6 +5715,430 @@
           "hometown": "Hubbard, Ohio",
           "occupation": "Operations Manager",
           "status": "Week 1"
+        }
+      ]
+    },
+    "13": {
+      "eligible": {
+        "name": "Rachel Lindsay",
+        "age": "32",
+        "hometown": "Dallas, Texas",
+        "occupation": "attorney",
+        "status": "engaged"
+      },
+      "contestants": [
+        {
+          "name": "Bryan Abasolo",
+          "age": "37",
+          "hometown": "Miami, Florida",
+          "occupation": "Chiropractor",
+          "status": "Winner"
+        },
+        {
+          "name": "Peter Kraus ",
+          "age": "31",
+          "hometown": "Madison, Wisconsin",
+          "occupation": "Business Owner",
+          "status": "Runner-Up"
+        },
+        {
+          "name": "Eric Bigger",
+          "age": "29",
+          "hometown": "Baltimore, Maryland",
+          "occupation": "Personal Trainer",
+          "status": "Week 9"
+        },
+        {
+          "name": "Dean Unglert",
+          "age": "26",
+          "hometown": "Aspen, Colorado",
+          "occupation": "Startup Recruiter",
+          "status": "Week 8",
+          "place": "4"
+        },
+        {
+          "name": "Adam Gottschalk",
+          "age": "27",
+          "hometown": "Dallas, Texas",
+          "occupation": "Real Estate agent",
+          "status": "Week 7",
+          "place": "5"
+        },
+        {
+          "name": "Matthew 'Matt' Munson",
+          "age": "32",
+          "hometown": "Meriden, Connecticut",
+          "occupation": "Construction Sales Rep",
+          "status": "6"
+        },
+        {
+          "name": "Aleksandr 'Alex' Bordyukov",
+          "age": "28",
+          "hometown": "Grosse Pointe, Michigan",
+          "occupation": "Information Systems Supervisor",
+          "status": "Week 6",
+          "place": "7"
+        },
+        {
+          "name": "William 'Will' Gaskins",
+          "age": "28",
+          "hometown": "White Plains, New York",
+          "occupation": "Sales Manager",
+          "status": "8"
+        },
+        {
+          "name": "Kenny Layne",
+          "age": "35",
+          "hometown": "Orlando, Florida",
+          "occupation": "Professional Wrestler",
+          "status": "9"
+        },
+        {
+          "name": "Anthony Battle",
+          "age": "26",
+          "hometown": "Chicago, Illinois",
+          "occupation": "Education Software Manager",
+          "status": "Week 5",
+          "place": "10-11"
+        },
+        {
+          "name": "Josiah Graham",
+          "age": "28",
+          "hometown": "Plantation, Florida",
+          "occupation": "Prosecuting Attorney"
+        },
+        {
+          "name": "Lee Garrett",
+          "age": "30",
+          "hometown": "Jacksonville, Florida",
+          "occupation": "Singer/Songwriter",
+          "status": "12"
+        },
+        {
+          "name": "Ignacio 'Iggy' Rodriguez",
+          "age": "30",
+          "hometown": "Pasadena, California",
+          "occupation": "Consulting Firm CEO",
+          "status": "Week 4",
+          "place": "13-14"
+        },
+        {
+          "name": "Jonathan Treece",
+          "age": "31",
+          "hometown": "New Smyrna Beach, Florida",
+          "occupation": "Tickle Monster"
+        },
+        {
+          "name": "Jack Stone",
+          "age": "32",
+          "hometown": "Dallas, Texas",
+          "occupation": "Attorney",
+          "status": "15",
+          "place": ""
+        },
+        {
+          "name": "Brady Ervin",
+          "age": "29",
+          "hometown": "Eden Prairie, Minnesota",
+          "occupation": "Male Model",
+          "status": "Week 3",
+          "place": "16-18"
+        },
+        {
+          "name": "Kenneth 'Diggy' Moreland",
+          "age": "31",
+          "hometown": "Chicago, Illinois",
+          "occupation": "Senior Inventory Analyst"
+        },
+        {
+          "name": "Bryce Powers",
+          "age": "30",
+          "hometown": "Orlando, Florida",
+          "occupation": "Firefighter"
+        },
+        {
+          "name": "Frederick 'Fred' Johnson",
+          "age": "27",
+          "hometown": "Dallas, Texas",
+          "occupation": "Executive Assistant",
+          "status": "19",
+          "place": ""
+        },
+        {
+          "name": "Blake Elarbee",
+          "age": "31",
+          "hometown": "Marina del Rey, California",
+          "occupation": "Aspiring Drummer",
+          "status": "Week 2",
+          "place": "20-22"
+        },
+        {
+          "name": "James 'Jamey' Kocan",
+          "age": "32",
+          "hometown": "Santa Monica, California",
+          "occupation": "Sales Account Executive"
+        },
+        {
+          "name": "Lucas Yancey",
+          "age": "30",
+          "hometown": "Woodside, California",
+          "occupation": "Whaboom"
+        },
+        {
+          "name": "DeMario Jackson",
+          "age": "30",
+          "hometown": "Century City, California",
+          "occupation": "Executive Recruiter",
+          "status": "23",
+          "place": ""
+        },
+        {
+          "name": "Jedidiah Ballard",
+          "age": "35",
+          "hometown": "Augusta, Georgia",
+          "occupation": "ER Physician",
+          "status": "Week 1",
+          "place": "24-31"
+        },
+        {
+          "name": "Michael Black",
+          "age": "26",
+          "hometown": "Chicago, Illinois",
+          "occupation": "Former Professional Basketball Player"
+        },
+        {
+          "name": "Robert 'Rob' Howard",
+          "age": "30",
+          "hometown": "Calgary, Canada",
+          "occupation": "Law Student"
+        },
+        {
+          "name": "Grant Hubsher",
+          "age": "29",
+          "hometown": "Palm Harbor, Florida",
+          "occupation": "Emergency Medicine Physician"
+        },
+        {
+          "name": "Blake Killpack",
+          "age": "29",
+          "hometown": "San Francisco, California",
+          "occupation": "U.S. Marine Veteran"
+        },
+        {
+          "name": "Milton LaCroix",
+          "age": "31",
+          "hometown": "North Bay Village, Florida",
+          "occupation": "Hotel Recreation Supervisor"
+        },
+        {
+          "name": "Mohit Sehgal",
+          "age": "26",
+          "hometown": "Pacifica, California",
+          "occupation": "Product Manager"
+        },
+        {
+          "name": "Kyle Sherwood",
+          "age": "26",
+          "hometown": "Stratford, Connecticut",
+          "occupation": "Marketing Consultant"
+        }
+      ]
+    },
+    "14": {
+      "eligible": {
+        "name": "Rebecca 'Becca' Kufrin",
+        "hometown": "Prior Lake, Minnesota",
+        "occupation": "Publicist",
+        "age": "28",
+        "status": "engaged"
+      },
+      "contestants": [
+        {
+          "name": "Garrett Yrigoyen",
+          "age": "29",
+          "hometown": "Manteca, California",
+          "occupation": "Medical Sales Representative",
+          "status": "Winner"
+        },
+        {
+          "name": "Blake Horstmann",
+          "age": "28",
+          "hometown": "Bailey, Colorado",
+          "occupation": "Sales Rep",
+          "status": "Runner-up"
+        },
+        {
+          "name": "Jason Tartick ",
+          "age": "29",
+          "hometown": "Buffalo, New York",
+          "occupation": "Senior Corporate Banker",
+          "status": "Week 9"
+        },
+        {
+          "name": "Colton Underwood",
+          "age": "26",
+          "hometown": "Washington, Illinois",
+          "occupation": "Former Pro Football Player",
+          "status": "Week 8"
+        },
+        {
+          "name": "William 'Wills' Reid",
+          "age": "29",
+          "hometown": "Los Angeles, California",
+          "occupation": "Graphic Designer",
+          "status": "Week 7"
+        },
+        {
+          "name": "Leandro 'Leo' Dottavio",
+          "age": "31",
+          "hometown": "Los Angeles, California",
+          "occupation": "Actor",
+          "status": "6"
+        },
+        {
+          "name": "Connor Obrochta",
+          "age": "25",
+          "hometown": "St. Petersburg, Florida",
+          "occupation": "Fitness Coach",
+          "status": "Week 6"
+        },
+        {
+          "name": "Lincoln Adim",
+          "age": "26",
+          "hometown": "Boston, Massachusetts",
+          "occupation": "Account Sales Executive"
+        },
+        {
+          "name": "Chris Randone",
+          "age": "30",
+          "hometown": "Pleasantville, New York",
+          "occupation": "Sales Trainer",
+          "status": "9"
+        },
+        {
+          "name": "John Graham",
+          "age": "28",
+          "hometown": "Chicago, Illinois",
+          "occupation": "Software Engineer",
+          "status": "Week 5"
+        },
+        {
+          "name": "Jordan Kimball ",
+          "age": "26",
+          "hometown": "Crystal River, Florida",
+          "occupation": "Male Model",
+          "status": "11"
+        },
+        {
+          "name": "David Ravitz",
+          "age": "25",
+          "hometown": "Cherry Hill, New Jersey",
+          "occupation": "Venture Capitalist",
+          "status": "12"
+        },
+        {
+          "name": "Christon Staples",
+          "age": "31",
+          "hometown": "Los Angeles, California",
+          "occupation": "Former Harlem Globetrotter",
+          "status": "Week 4"
+        },
+        {
+          "name": "Nicholas 'Nick' Spetsas",
+          "age": "27",
+          "hometown": "Palm Coast, Florida",
+          "occupation": "Attorney"
+        },
+        {
+          "name": "Jean Blanc",
+          "age": "31",
+          "hometown": "Boston, Massachusetts",
+          "occupation": "Colognoisseur",
+          "status": "15"
+        },
+        {
+          "name": "Michael 'Mike' Renner",
+          "age": "27",
+          "hometown": "Cincinnati, Ohio",
+          "occupation": "Sports Analyst",
+          "status": "Week 3",
+          "place": "16-17"
+        },
+        {
+          "name": "Ryan Peterson",
+          "age": "26",
+          "hometown": "Mashpee, Massachusetts",
+          "occupation": "Banjoist"
+        },
+        {
+          "name": "Clay Harbor",
+          "age": "30",
+          "hometown": "Chicago, Illinois",
+          "occupation": "Pro Football Player",
+          "status": "18 (quit)"
+        },
+        {
+          "name": "Alex Templeman",
+          "age": "31",
+          "hometown": "Atlanta, Georgia",
+          "occupation": "Construction Manager",
+          "status": "Week 2"
+        },
+        {
+          "name": "Rickey Jasper",
+          "age": "27",
+          "hometown": "Ashburn, Virginia",
+          "occupation": "IT Consultant"
+        },
+        {
+          "name": "Trent Jespersen",
+          "age": "28",
+          "hometown": "Carroll, Iowa",
+          "occupation": "Realtor"
+        },
+        {
+          "name": "Chase Vergason",
+          "age": "27",
+          "hometown": "Sanford, Florida",
+          "occupation": "Advertising Vice President",
+          "status": "Week 1"
+        },
+        {
+          "name": "Christian Estrada",
+          "age": "28",
+          "hometown": "San Diego, California",
+          "occupation": "Banker"
+        },
+        {
+          "name": "Darius Feaster",
+          "age": "26",
+          "hometown": "Sherman Oaks, California",
+          "occupation": "Pharmaceutical Sales Rep"
+        },
+        {
+          "name": "Grant Vandevanter",
+          "age": "27",
+          "hometown": "Danville, California",
+          "occupation": "Electrician"
+        },
+        {
+          "name": "Joe Amabile",
+          "age": "31",
+          "hometown": "Chicago, Illinois",
+          "occupation": "Grocery Store Owner"
+        },
+        {
+          "name": "Kamil Nicalek",
+          "age": "30",
+          "hometown": "Monroe, New York",
+          "occupation": "Social Media Participant"
+        },
+        {
+          "name": "Jake Enyeart",
+          "age": "29",
+          "hometown": "Minneapolis, Minnesota",
+          "occupation": "Marketing Consultant",
+          "status": "28"
         }
       ]
     }
